@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build . --tag=mlproject
+docker build . --tag=ismafin/ml-project-udacity
 # Step 2:
 # List docker images
 
